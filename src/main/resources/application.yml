@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ms-student
+
+logging:
+  level:
+    org.springframework.web: DEBUG
+    org.hibernate: DEBUG
